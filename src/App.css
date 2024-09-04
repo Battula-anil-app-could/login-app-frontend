@@ -1,0 +1,149 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  overflow-x: hidden;
+
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+
+.landing-container {
+  text-align: center;
+  padding: 50px;
+  overflow-x: hidden;
+}
+
+.auth-button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.auth-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow-x: hidden;
+  
+}
+
+.auth-container h2 {
+  margin-bottom: 20px;
+}
+
+.auth-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.message {
+  color: rgb(53, 11, 221);
+  margin-top: 10px;
+}
+
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+
+.landing-container {
+  text-align: center;
+  padding: 50px;
+  overflow-x: hidden;
+}
+
+.landing-header {
+  background-color: #4caf50;
+  padding: 20px;
+  color: white;
+}
+
+.landing-header h1 {
+  margin: 0;
+}
+
+.logout-button {
+  padding: 10px 20px;
+  background-color: white;
+  color: #4caf50;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.landing-main {
+  padding: 50px;
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.landing-footer {
+  margin-top: 50px;
+  color: #777;
+}
+
+
+.auth-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.auth-container h2 {
+  margin-bottom: 20px;
+}
+
+.auth-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.auth-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+
